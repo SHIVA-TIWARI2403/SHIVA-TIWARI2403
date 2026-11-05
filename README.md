@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/satendra-pratap-t-570617449/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://shiva-tiwari2403.github.io/ai-tool-matrix/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-ToolMatrix_AI-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" alt="ToolMatrix AI" />
+  </a>
   <a href="https://milosathi.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_App-Milo-7B2CBF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Milo" />
   </a>
@@ -22,6 +25,7 @@
 ### 👨‍💻 About Me
 
 * 🌍 Based in **Ayodhya, Uttar Pradesh, India**
+* ⚡ Creator of **[ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/)** — an independent, real-time AI tools discovery & side-by-side comparison engine.
 * 🚀 Founder & Lead Developer of **[Milo](https://milosathi.netlify.app)** — a modern, privacy-first social platform for adults (18+) to connect over hobbies and interests.
 * 💡 Passionate about building fast, responsive, and secure full-stack web applications.
 * 🛠️ Focused on modern web technologies, database design, and cloud deployments.
@@ -33,6 +37,9 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -50,6 +57,7 @@
 
 | Project | Description | Live Link | Repo |
 | :--- | :--- | :---: | :---: |
+| ⚡ **ToolMatrix AI** | Real-time AI tools directory & 4-way side-by-side comparison engine across 40+ models (Video, Image, LLMs, Legal AI) with live pricing & free tier specs. | [Live App](https://shiva-tiwari2403.github.io/ai-tool-matrix/) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix) |
 | 💜 **Milo** | Hobby-based social & dating web application for adults (18+) with Google OAuth, Supabase Realtime & PostgreSQL RLS. | [Live App](https://milosathi.netlify.app) | [GitHub](https://github.com/SHIVA-TIWARI2403/milo) |
 | 🎮 **Tic Tac Toe** | Interactive classic game built with pure HTML, CSS, and Vanilla JavaScript. | [Play](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) | [GitHub](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) |
 

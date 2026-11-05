@@ -2,6 +2,18 @@
 <h3 align="center">Full-Stack Web Developer & Founder of <a href="https://milosathi.netlify.app">Milo</a> 🚀</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/satendra-pratap-t-570617449/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://milosathi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-Milo-7B2CBF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Milo" />
+  </a>
+  <a href="mailto:tiwarisatendrapratap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHIVA-TIWARI2403&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
@@ -13,6 +25,7 @@
 * 🚀 Founder & Lead Developer of **[Milo](https://milosathi.netlify.app)** — a modern, privacy-first social platform for adults (18+) to connect over hobbies and interests.
 * 💡 Passionate about building fast, responsive, and secure full-stack web applications.
 * 🛠️ Focused on modern web technologies, database design, and cloud deployments.
+* 💼 LinkedIn: **[Satendra Pratap Tiwari](https://www.linkedin.com/in/satendra-pratap-t-570617449/)**
 * 📬 Contact: [tiwarisatendrapratap@gmail.com](mailto:tiwarisatendrapratap@gmail.com)
 
 ---

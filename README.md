@@ -26,6 +26,7 @@
 
 * 🌍 Based in **Ayodhya, Uttar Pradesh, India**
 * ⚡ Creator of **[ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/)** — an independent, real-time AI tools discovery & side-by-side comparison engine.
+* 🎓 Creator of **[SlideCraft AI](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)** — an autonomous Gamma-style AI presentation & PPTX maker for students with Core Concept definitions and PowerPoint transitions.
 * 🚀 Founder & Lead Developer of **[Milo](https://milosathi.netlify.app)** — a modern, privacy-first social platform for adults (18+) to connect over hobbies and interests.
 * 💡 Passionate about building fast, responsive, and secure full-stack web applications.
 * 🛠️ Focused on modern web technologies, database design, and cloud deployments.
@@ -37,6 +38,10 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/PowerPoint_PPTX-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint PPTX" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -46,7 +51,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -57,6 +61,7 @@
 
 | Project | Description | Live Link | Repo |
 | :--- | :--- | :---: | :---: |
+| 🎓 **SlideCraft AI** | Autonomous AI presentation & PPT maker for students with Gamma-style Bento Cards, Core Concept definitions, and native PowerPoint transitions. | [Repo](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) |
 | ⚡ **ToolMatrix AI** | Real-time AI tools directory & 4-way side-by-side comparison engine across 40+ models (Video, Image, LLMs, Legal AI) with live pricing & free tier specs. | [Live App](https://shiva-tiwari2403.github.io/ai-tool-matrix/) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix) |
 | 💜 **Milo** | Hobby-based social & dating web application for adults (18+) with Google OAuth, Supabase Realtime & PostgreSQL RLS. | [Live App](https://milosathi.netlify.app) | [GitHub](https://github.com/SHIVA-TIWARI2403/milo) |
 | 🎮 **Tic Tac Toe** | Interactive classic game built with pure HTML, CSS, and Vanilla JavaScript. | [Play](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) | [GitHub](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) |

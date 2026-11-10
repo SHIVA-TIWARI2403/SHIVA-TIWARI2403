@@ -61,6 +61,7 @@
 
 | Project | Description | Live Link | Repo |
 | :--- | :--- | :---: | :---: |
+| 🎬 **Cinematic Portfolio** | Ultra-modern editorial portfolio & AI systems showcase with 3D tilt, Web Audio synthesizer, and interactive CLI terminal. | [Repo](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) | [GitHub](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) |
 | 🎓 **SlideCraft AI** | Autonomous AI presentation & PPT maker for students with Gamma-style Bento Cards, Core Concept definitions, and native PowerPoint transitions. | [Repo](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) |
 | ⚡ **ToolMatrix AI** | Real-time AI tools directory & 4-way side-by-side comparison engine across 40+ models (Video, Image, LLMs, Legal AI) with live pricing & free tier specs. | [Live App](https://shiva-tiwari2403.github.io/ai-tool-matrix/) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix) |
 | 💜 **Milo** | Hobby-based social & dating web application for adults (18+) with Google OAuth, Supabase Realtime & PostgreSQL RLS. | [Live App](https://milosathi.netlify.app) | [GitHub](https://github.com/SHIVA-TIWARI2403/milo) |

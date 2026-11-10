@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/satendra-pratap-t-570617449/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/SHIVA-TIWARI2403/stacklens" target="_blank">
+    <img src="https://img.shields.io/badge/Project-StackLens-4F46E5?style=for-the-badge&logo=target&logoColor=white" alt="StackLens" />
+  </a>
   <a href="https://shiva-tiwari2403.github.io/ai-tool-matrix/" target="_blank">
     <img src="https://img.shields.io/badge/Live_App-ToolMatrix_AI-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" alt="ToolMatrix AI" />
   </a>
@@ -25,6 +28,7 @@
 ### 👨‍💻 About Me
 
 * 🌍 Based in **Ayodhya, Uttar Pradesh, India**
+* 🔍 Creator of **[StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)** — a hacker-grade web tech stack & architecture inspector that uncovers frameworks, backend APIs, CDNs, CSP policies & security postures for any website in seconds.
 * ⚡ Creator of **[ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/)** — an independent, real-time AI tools discovery & side-by-side comparison engine.
 * 🎓 Creator of **[SlideCraft AI](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)** — an autonomous Gamma-style AI presentation & PPTX maker for students with Core Concept definitions and PowerPoint transitions.
 * 🚀 Founder & Lead Developer of **[Milo](https://milosathi.netlify.app)** — a modern, privacy-first social platform for adults (18+) to connect over hobbies and interests.
@@ -38,6 +42,8 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
@@ -61,6 +67,7 @@
 
 | Project | Description | Live Link | Repo |
 | :--- | :--- | :---: | :---: |
+| 🔍 **StackLens** | Hacker-grade web reconnaissance & architecture inspector. Scans 100+ technologies, decrypts CSP policies, audits security posture (HSTS/Clickjacking), and generates AI architectural breakdowns. | [Repo](https://github.com/SHIVA-TIWARI2403/stacklens) | [GitHub](https://github.com/SHIVA-TIWARI2403/stacklens) |
 | 🍃 **FolioForge** | Minimalist glassmorphic portfolio & resume builder in Forest Green & Maroon with real-time split-screen preview and instant PDF/HTML export. | [Repo](https://github.com/SHIVA-TIWARI2403/folioforge) | [GitHub](https://github.com/SHIVA-TIWARI2403/folioforge) |
 | 🎬 **Cinematic Portfolio** | Ultra-modern editorial portfolio & AI systems showcase with 3D tilt, Web Audio synthesizer, and interactive CLI terminal. | [Repo](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) | [GitHub](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) |
 | 🎓 **SlideCraft AI** | Autonomous AI presentation & PPT maker for students with Gamma-style Bento Cards, Core Concept definitions, and native PowerPoint transitions. | [Repo](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) |

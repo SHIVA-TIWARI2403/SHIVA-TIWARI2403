@@ -61,6 +61,7 @@
 
 | Project | Description | Live Link | Repo |
 | :--- | :--- | :---: | :---: |
+| 🍃 **FolioForge** | Minimalist glassmorphic portfolio & resume builder in Forest Green & Maroon with real-time split-screen preview and instant PDF/HTML export. | [Repo](https://github.com/SHIVA-TIWARI2403/folioforge) | [GitHub](https://github.com/SHIVA-TIWARI2403/folioforge) |
 | 🎬 **Cinematic Portfolio** | Ultra-modern editorial portfolio & AI systems showcase with 3D tilt, Web Audio synthesizer, and interactive CLI terminal. | [Repo](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) | [GitHub](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) |
 | 🎓 **SlideCraft AI** | Autonomous AI presentation & PPT maker for students with Gamma-style Bento Cards, Core Concept definitions, and native PowerPoint transitions. | [Repo](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) |
 | ⚡ **ToolMatrix AI** | Real-time AI tools directory & 4-way side-by-side comparison engine across 40+ models (Video, Image, LLMs, Legal AI) with live pricing & free tier specs. | [Live App](https://shiva-tiwari2403.github.io/ai-tool-matrix/) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix) |

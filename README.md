@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+%26+Systems+Architect;Building+Core+CS+from+Scratch;Autonomous+AI+Pipelines+%26+Algorithms;Turning+Complex+Logic+into+Production" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 👋 Hi, I'm **Shiva Tiwari**  
-💻 **Full-Stack & AI Systems Engineer**  
+💻 **Full-Stack & Systems Engineer**  
 🎓 **BCA (Class of 2027)** · 🚀 **Open to SDE Intern & Full Stack Roles (Remote / Hybrid)**  
-🤖 Architecting autonomous AI pipelines, algorithmic trading engines & high-performance web applications  
-🔭 **Shipped & Live:** [Milo](https://milosathi.netlify.app) · [ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/) · [StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)  
-🍀 Passionate about full-stack scalability, AI workflows, financial algorithms, and clean system design
+🤖 Architecting autonomous AI pipelines, algorithmic trading engines, distributed ledgers & core systems  
+🔭 **Shipped & Live:** [Systems Lab](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) · [Milo](https://milosathi.netlify.app) · [ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/) · [StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)  
+🍀 Passionate about low-level system internals, full-stack scalability, AI workflows, and clean software architecture
 
 ---
 
@@ -31,7 +35,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 1. [StackLens — Hacker-Grade Web Tech Inspector](https://github.com/SHIVA-TIWARI2403/stacklens) *(Flagship)*
+### 🛠️ 1. [Systems From Scratch Lab — Core CS Engines](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) *(Systems Flagship)*
+> A modular, zero-dependency implementation of foundational computer science systems built from the ground up in pure Python: Mini-Git (cryptographic object store & tree hashing), Mini-Redis (TCP in-memory database with TTL), Mini-HTTP Server (raw socket protocol parser), Mini-Blockchain (proof-of-work SHA-256 ledger), and Mini-Neural-Net (NumPy feedforward network with backprop).
+
+- **Stack:** Python · TCP Sockets · Cryptography (SHA-1/SHA-256) · RESP Protocol · HTTP/1.1 · NumPy · Distributed Ledger
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab)**
+
+---
+
+### 🔍 2. [StackLens — Hacker-Grade Web Tech Inspector](https://github.com/SHIVA-TIWARI2403/stacklens) *(Web Security Flagship)*
 > A hacker-grade web reconnaissance and architecture inspector. Scans 100+ technologies across any URL, decrypts Content Security Policies (CSP), audits security postures (HSTS, clickjacking prevention), and generates AI architectural breakdowns.
 
 - **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Cheerio · Web Security Auditing · Vercel Edge
@@ -39,7 +51,7 @@
 
 ---
 
-### ⚡ 2. [ToolMatrix AI — Multi-Model AI Directory & Public REST API](https://shiva-tiwari2403.github.io/ai-tool-matrix/) *(Production Live)*
+### ⚡ 3. [ToolMatrix AI — Multi-Model AI Directory & Public REST API](https://shiva-tiwari2403.github.io/ai-tool-matrix/) *(Production Live)*
 > Real-time AI tools discovery portal and 4-way side-by-side comparison engine across 40+ models (LLMs, Video, Image, Coding, Legal AI) with live pricing specs, filter matrices, and an integrated public JSON REST API.
 
 - **Stack:** React 19 · Vite · Tailwind CSS · Supabase · REST API · GitHub Pages
@@ -47,7 +59,7 @@
 
 ---
 
-### 📈 3. [AI Intraday Trading Bot — Price Action & Paper Trading Engine](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)
+### 📈 4. [AI Intraday Trading Bot — Price Action & Paper Trading Engine](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)
 > Autonomous algorithmic trading bot for NSE/Crypto with multi-indicator confluence screening (VWAP, RSI, EMA 20/50, Bollinger Bands), candlestick pattern recognition (Hammer, Engulfing), risk management circuit-breakers, and a live paper trading broker.
 
 - **Stack:** Python 3.10+ · CCXT · Pandas · NumPy · Technical Indicators · Risk Engine
@@ -55,7 +67,7 @@
 
 ---
 
-### 🎥 4. [Viral AI Shorts Pipeline — Autonomous Video Generation Engine](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)
+### 🎥 5. [Viral AI Shorts Pipeline — Autonomous Video Generation Engine](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)
 > Fully automated video synthesis pipeline generating high-converting Dark Psychology shorts. Uses Gemini AI for viral scriptwriting, Edge-TTS for multi-lingual neural voiceovers, MoviePy for dynamic subtitles and visual animations, and automated YouTube/Meta publishing.
 
 - **Stack:** Python · Google Gemini API · Edge-TTS · MoviePy · FFmpeg · YouTube Data API v3 · Meta Graph API
@@ -63,7 +75,7 @@
 
 ---
 
-### 🎓 5. [SlideCraft AI — Gamma-Style Bento Presentation Engine](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)
+### 🎓 6. [SlideCraft AI — Gamma-Style Bento Presentation Engine](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)
 > Autonomous AI slide deck synthesizer for students and researchers. Generates exhaustive presentations up to 25 slides with Core Concept definitions on Slide 1, native PowerPoint OpenXML transitions (*Fade, Wipe, Zoom*), and student talking scripts.
 
 - **Stack:** Python · FastAPI · python-pptx · OpenXML · Google Gemini · Tailwind CSS
@@ -71,7 +83,7 @@
 
 ---
 
-### 💜 6. [Milo — Hobby-Based Social & Community Platform](https://milosathi.netlify.app) *(Production Live)*
+### 💜 7. [Milo — Hobby-Based Social & Community Platform](https://milosathi.netlify.app) *(Production Live)*
 > Modern, privacy-focused social platform for adults (18+) to connect over hobbies and shared passions. Features Google OAuth authentication, Supabase Realtime synchronization, and PostgreSQL Row-Level Security (RLS).
 
 - **Stack:** HTML5 · Tailwind CSS · JavaScript (ES6+) · Supabase · PostgreSQL · Netlify
@@ -79,7 +91,7 @@
 
 ---
 
-### 🍃 7. [FolioForge — Minimalist Glassmorphic Portfolio & Resume Builder](https://github.com/SHIVA-TIWARI2403/folioforge)
+### 🍃 8. [FolioForge — Minimalist Glassmorphic Portfolio & Resume Builder](https://github.com/SHIVA-TIWARI2403/folioforge)
 > Glassmorphic portfolio and resume builder in Forest Green & Maroon with real-time split-screen preview, responsive cards, and 1-click PDF/HTML export.
 
 - **Stack:** HTML5 · Tailwind CSS · JavaScript · Canvas · LocalStorage
@@ -89,11 +101,21 @@
 
 # 💻 Tech Stack & Skills:
 
+### ⚙️ Systems Engineering, Low-Level & Core CS
+<p align="left">
+  <img src="https://img.shields.io/badge/TCP%20Sockets-0052CC?style=for-the-badge&logo=c&logoColor=white" alt="TCP Sockets" />
+  <img src="https://img.shields.io/badge/Git%20Internals-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Internals" />
+  <img src="https://img.shields.io/badge/RESP%20Protocol-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis RESP" />
+  <img src="https://img.shields.io/badge/SHA--256%20Crypto-20232A?style=for-the-badge&logo=auth0&logoColor=white" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/HTTP%2F1.1%20Parser-4A154B?style=for-the-badge" alt="HTTP Sockets" />
+  <img src="https://img.shields.io/badge/Distributed%20Ledger-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
+</p>
+
 ### 🤖 AI, LLMs & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Neural%20Nets%20(Scratch)-4F46E5?style=for-the-badge" alt="Neural Nets" />
   <img src="https://img.shields.io/badge/Edge--TTS%20Neural-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Edge-TTS" />
   <img src="https://img.shields.io/badge/MoviePy-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="MoviePy" />
   <img src="https://img.shields.io/badge/CCXT%20Crypto-F59E0B?style=for-the-badge" alt="CCXT" />
@@ -130,6 +152,15 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SHIVA-TIWARI2403&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---

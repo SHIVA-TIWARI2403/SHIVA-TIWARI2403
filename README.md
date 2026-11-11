@@ -1,92 +1,153 @@
-<h1 align="center">Hi there, I'm Shiva Tiwari 👋</h1>
-<h3 align="center">Full-Stack Web Developer & Founder of <a href="https://milosathi.netlify.app">Milo</a> 🚀</h3>
+# 💫 About Me:
+👋 Hi, I'm **Shiva Tiwari**  
+💻 **Full-Stack & AI Systems Engineer**  
+🎓 **BCA (Class of 2027)** · 🚀 **Open to SDE Intern & Full Stack Roles (Remote / Hybrid)**  
+🤖 Architecting autonomous AI pipelines, algorithmic trading engines & high-performance web applications  
+🔭 **Shipped & Live:** [Milo](https://milosathi.netlify.app) · [ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/) · [StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)  
+🍀 Passionate about full-stack scalability, AI workflows, financial algorithms, and clean system design
 
-<p align="center">
+---
+
+## 🌐 Connect With Me:
+<p align="left">
   <a href="https://www.linkedin.com/in/satendra-pratap-t-570617449/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SHIVA-TIWARI2403/stacklens" target="_blank">
-    <img src="https://img.shields.io/badge/Project-StackLens-4F46E5?style=for-the-badge&logo=target&logoColor=white" alt="StackLens" />
+  <a href="mailto:amshivatiwari444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://shiva-tiwari2403.github.io/ai-tool-matrix/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-ToolMatrix_AI-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" alt="ToolMatrix AI" />
+  <a href="https://github.com/SHIVA-TIWARI2403" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://milosathi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-Milo-7B2CBF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Milo" />
+    <img src="https://img.shields.io/badge/Milo%20Live-7B2CBF?style=for-the-badge&logo=netlify&logoColor=white" alt="Milo Live" />
   </a>
-  <a href="mailto:tiwarisatendrapratap@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://shiva-tiwari2403.github.io/ai-tool-matrix/" target="_blank">
+    <img src="https://img.shields.io/badge/ToolMatrix%20Live-4F46E5?style=for-the-badge&logo=sparkles&logoColor=white" alt="ToolMatrix Live" />
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 1. [StackLens — Hacker-Grade Web Tech Inspector](https://github.com/SHIVA-TIWARI2403/stacklens) *(Flagship)*
+> A hacker-grade web reconnaissance and architecture inspector. Scans 100+ technologies across any URL, decrypts Content Security Policies (CSP), audits security postures (HSTS, clickjacking prevention), and generates AI architectural breakdowns.
+
+- **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Cheerio · Web Security Auditing · Vercel Edge
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/stacklens)**
+
+---
+
+### ⚡ 2. [ToolMatrix AI — Multi-Model AI Directory & Public REST API](https://shiva-tiwari2403.github.io/ai-tool-matrix/) *(Production Live)*
+> Real-time AI tools discovery portal and 4-way side-by-side comparison engine across 40+ models (LLMs, Video, Image, Coding, Legal AI) with live pricing specs, filter matrices, and an integrated public JSON REST API.
+
+- **Stack:** React 19 · Vite · Tailwind CSS · Supabase · REST API · GitHub Pages
+- 🔗 **[🌐 Launch Live Demo](https://shiva-tiwari2403.github.io/ai-tool-matrix/)** &nbsp;·&nbsp; **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix)**
+
+---
+
+### 📈 3. [AI Intraday Trading Bot — Price Action & Paper Trading Engine](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)
+> Autonomous algorithmic trading bot for NSE/Crypto with multi-indicator confluence screening (VWAP, RSI, EMA 20/50, Bollinger Bands), candlestick pattern recognition (Hammer, Engulfing), risk management circuit-breakers, and a live paper trading broker.
+
+- **Stack:** Python 3.10+ · CCXT · Pandas · NumPy · Technical Indicators · Risk Engine
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)**
+
+---
+
+### 🎥 4. [Viral AI Shorts Pipeline — Autonomous Video Generation Engine](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)
+> Fully automated video synthesis pipeline generating high-converting Dark Psychology shorts. Uses Gemini AI for viral scriptwriting, Edge-TTS for multi-lingual neural voiceovers, MoviePy for dynamic subtitles and visual animations, and automated YouTube/Meta publishing.
+
+- **Stack:** Python · Google Gemini API · Edge-TTS · MoviePy · FFmpeg · YouTube Data API v3 · Meta Graph API
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)**
+
+---
+
+### 🎓 5. [SlideCraft AI — Gamma-Style Bento Presentation Engine](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)
+> Autonomous AI slide deck synthesizer for students and researchers. Generates exhaustive presentations up to 25 slides with Core Concept definitions on Slide 1, native PowerPoint OpenXML transitions (*Fade, Wipe, Zoom*), and student talking scripts.
+
+- **Stack:** Python · FastAPI · python-pptx · OpenXML · Google Gemini · Tailwind CSS
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)**
+
+---
+
+### 💜 6. [Milo — Hobby-Based Social & Community Platform](https://milosathi.netlify.app) *(Production Live)*
+> Modern, privacy-focused social platform for adults (18+) to connect over hobbies and shared passions. Features Google OAuth authentication, Supabase Realtime synchronization, and PostgreSQL Row-Level Security (RLS).
+
+- **Stack:** HTML5 · Tailwind CSS · JavaScript (ES6+) · Supabase · PostgreSQL · Netlify
+- 🔗 **[🌐 Launch Live Demo](https://milosathi.netlify.app)** &nbsp;·&nbsp; **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/milo)**
+
+---
+
+### 🍃 7. [FolioForge — Minimalist Glassmorphic Portfolio & Resume Builder](https://github.com/SHIVA-TIWARI2403/folioforge)
+> Glassmorphic portfolio and resume builder in Forest Green & Maroon with real-time split-screen preview, responsive cards, and 1-click PDF/HTML export.
+
+- **Stack:** HTML5 · Tailwind CSS · JavaScript · Canvas · LocalStorage
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/folioforge)**
+
+---
+
+# 💻 Tech Stack & Skills:
+
+### 🤖 AI, LLMs & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Edge--TTS%20Neural-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Edge-TTS" />
+  <img src="https://img.shields.io/badge/MoviePy-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="MoviePy" />
+  <img src="https://img.shields.io/badge/CCXT%20Crypto-F59E0B?style=for-the-badge" alt="CCXT" />
+</p>
+
+### 💻 Frontend & Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js%2014-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%2019-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚙️ Backend, Systems & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+# 📊 GitHub Stats & Streak:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVA-TIWARI2403&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Shiva's GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=SHIVA-TIWARI2403&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA-TIWARI2403&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHIVA-TIWARI2403&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-* 🌍 Based in **Ayodhya, Uttar Pradesh, India**
-* 🔍 Creator of **[StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)** — a hacker-grade web tech stack & architecture inspector that uncovers frameworks, backend APIs, CDNs, CSP policies & security postures for any website in seconds.
-* ⚡ Creator of **[ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/)** — an independent, real-time AI tools discovery & side-by-side comparison engine.
-* 🎓 Creator of **[SlideCraft AI](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)** — an autonomous Gamma-style AI presentation & PPTX maker for students with Core Concept definitions and PowerPoint transitions.
-* 🚀 Founder & Lead Developer of **[Milo](https://milosathi.netlify.app)** — a modern, privacy-first social platform for adults (18+) to connect over hobbies and interests.
-* 💡 Passionate about building fast, responsive, and secure full-stack web applications.
-* 🛠️ Focused on modern web technologies, database design, and cloud deployments.
-* 💼 LinkedIn: **[Satendra Pratap Tiwari](https://www.linkedin.com/in/satendra-pratap-t-570617449/)**
-* 📬 Contact: [tiwarisatendrapratap@gmail.com](mailto:tiwarisatendrapratap@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/PowerPoint_PPTX-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint PPTX" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Live Link | Repo |
-| :--- | :--- | :---: | :---: |
-| 🔍 **StackLens** | Hacker-grade web reconnaissance & architecture inspector. Scans 100+ technologies, decrypts CSP policies, audits security posture (HSTS/Clickjacking), and generates AI architectural breakdowns. | [Repo](https://github.com/SHIVA-TIWARI2403/stacklens) | [GitHub](https://github.com/SHIVA-TIWARI2403/stacklens) |
-| 🍃 **FolioForge** | Minimalist glassmorphic portfolio & resume builder in Forest Green & Maroon with real-time split-screen preview and instant PDF/HTML export. | [Repo](https://github.com/SHIVA-TIWARI2403/folioforge) | [GitHub](https://github.com/SHIVA-TIWARI2403/folioforge) |
-| 🎬 **Cinematic Portfolio** | Ultra-modern editorial portfolio & AI systems showcase with 3D tilt, Web Audio synthesizer, and interactive CLI terminal. | [Repo](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) | [GitHub](https://github.com/SHIVA-TIWARI2403/shiva-portfolio) |
-| 🎓 **SlideCraft AI** | Autonomous AI presentation & PPT maker for students with Gamma-style Bento Cards, Core Concept definitions, and native PowerPoint transitions. | [Repo](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker) |
-| ⚡ **ToolMatrix AI** | Real-time AI tools directory & 4-way side-by-side comparison engine across 40+ models (Video, Image, LLMs, Legal AI) with live pricing & free tier specs. | [Live App](https://shiva-tiwari2403.github.io/ai-tool-matrix/) | [GitHub](https://github.com/SHIVA-TIWARI2403/ai-tool-matrix) |
-| 💜 **Milo** | Hobby-based social & dating web application for adults (18+) with Google OAuth, Supabase Realtime & PostgreSQL RLS. | [Live App](https://milosathi.netlify.app) | [GitHub](https://github.com/SHIVA-TIWARI2403/milo) |
-| 🎮 **Tic Tac Toe** | Interactive classic game built with pure HTML, CSS, and Vanilla JavaScript. | [Play](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) | [GitHub](https://github.com/SHIVA-TIWARI2403/tic-tac-toe) |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVA-TIWARI2403&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shiva's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA-TIWARI2403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code with purpose, build with passion."</i> 💫
+  <i>"Code with purpose, build with passion, scale with precision."</i> 💫
 </p>

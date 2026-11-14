@@ -7,7 +7,7 @@
 💻 **Full-Stack & Systems Engineer**  
 🎓 **BCA (Class of 2027)** · 🚀 **Open to SDE Intern & Full Stack Roles (Remote / Hybrid)**  
 🤖 Architecting autonomous AI pipelines, algorithmic trading engines, distributed ledgers & core systems  
-🔭 **Shipped & Live:** [Systems Lab](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) · [Milo](https://milosathi.netlify.app) · [ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/) · [StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)  
+🔭 **Shipped & Live:** [Portify SaaS](https://github.com/SHIVA-TIWARI2403/portify) · [Systems Lab](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) · [Milo](https://milosathi.netlify.app) · [ToolMatrix AI](https://shiva-tiwari2403.github.io/ai-tool-matrix/) · [StackLens](https://github.com/SHIVA-TIWARI2403/stacklens)  
 🍀 Passionate about low-level system internals, full-stack scalability, AI workflows, and clean software architecture
 
 ---
@@ -29,13 +29,24 @@
   <a href="https://shiva-tiwari2403.github.io/ai-tool-matrix/" target="_blank">
     <img src="https://img.shields.io/badge/ToolMatrix%20Live-4F46E5?style=for-the-badge&logo=sparkles&logoColor=white" alt="ToolMatrix Live" />
   </a>
+  <a href="https://github.com/SHIVA-TIWARI2403/portify" target="_blank">
+    <img src="https://img.shields.io/badge/Portify%20Live-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portify Live" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛠️ 1. [Systems From Scratch Lab — Core CS Engines](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) *(Systems Flagship)*
+### 🌐 1. [Portify — Instant Localhost Tunnel & Sharing Platform](https://github.com/SHIVA-TIWARI2403/portify) *(DevTooling SaaS Flagship)*
+> A full-stack developer productivity SaaS platform enabling developers to share their local development ports (e.g. 3000, 5050, 5173, 8080) with friends or clients worldwide in 1-click via temporary expiring HTTPS links, PIN protection, mobile QR/barcode scanning, and direct WhatsApp sharing — without manual cloud deployment. Features Google & GitHub OAuth via Supabase, strict 3-site/12h rate limiting, and a master administrative oversight dashboard.
+
+- **Stack:** Next.js 16 · TypeScript · Tailwind CSS · Supabase Auth · OAuth 2.0 · localtunnel · Vercel
+- 🔗 **[📦 View Repository](https://github.com/SHIVA-TIWARI2403/portify)**
+
+---
+
+### 🛠️ 2. [Systems From Scratch Lab — Core CS Engines](https://github.com/SHIVA-TIWARI2403/build-your-own-x-lab) *(Systems Flagship)*
 > A modular, zero-dependency implementation of foundational computer science systems built from the ground up in pure Python: Mini-Git (cryptographic object store & tree hashing), Mini-Redis (TCP in-memory database with TTL), Mini-HTTP Server (raw socket protocol parser), Mini-Blockchain (proof-of-work SHA-256 ledger), and Mini-Neural-Net (NumPy feedforward network with backprop).
 
 - **Stack:** Python · TCP Sockets · Cryptography (SHA-1/SHA-256) · RESP Protocol · HTTP/1.1 · NumPy · Distributed Ledger
@@ -43,7 +54,7 @@
 
 ---
 
-### 🔍 2. [StackLens — Hacker-Grade Web Tech Inspector](https://github.com/SHIVA-TIWARI2403/stacklens) *(Web Security Flagship)*
+### 🔍 3. [StackLens — Hacker-Grade Web Tech Inspector](https://github.com/SHIVA-TIWARI2403/stacklens) *(Web Security Flagship)*
 > A hacker-grade web reconnaissance and architecture inspector. Scans 100+ technologies across any URL, decrypts Content Security Policies (CSP), audits security postures (HSTS, clickjacking prevention), and generates AI architectural breakdowns.
 
 - **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Cheerio · Web Security Auditing · Vercel Edge
@@ -51,7 +62,7 @@
 
 ---
 
-### ⚡ 3. [ToolMatrix AI — Multi-Model AI Directory & Public REST API](https://shiva-tiwari2403.github.io/ai-tool-matrix/) *(Production Live)*
+### ⚡ 4. [ToolMatrix AI — Multi-Model AI Directory & Public REST API](https://shiva-tiwari2403.github.io/ai-tool-matrix/) *(Production Live)*
 > Real-time AI tools discovery portal and 4-way side-by-side comparison engine across 40+ models (LLMs, Video, Image, Coding, Legal AI) with live pricing specs, filter matrices, and an integrated public JSON REST API.
 
 - **Stack:** React 19 · Vite · Tailwind CSS · Supabase · REST API · GitHub Pages
@@ -59,7 +70,7 @@
 
 ---
 
-### 📈 4. [AI Intraday Trading Bot — Price Action & Paper Trading Engine](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)
+### 📈 5. [AI Intraday Trading Bot — Price Action & Paper Trading Engine](https://github.com/SHIVA-TIWARI2403/ai-trading-bot)
 > Autonomous algorithmic trading bot for NSE/Crypto with multi-indicator confluence screening (VWAP, RSI, EMA 20/50, Bollinger Bands), candlestick pattern recognition (Hammer, Engulfing), risk management circuit-breakers, and a live paper trading broker.
 
 - **Stack:** Python 3.10+ · CCXT · Pandas · NumPy · Technical Indicators · Risk Engine
@@ -67,7 +78,7 @@
 
 ---
 
-### 🎥 5. [Viral AI Shorts Pipeline — Autonomous Video Generation Engine](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)
+### 🎥 6. [Viral AI Shorts Pipeline — Autonomous Video Generation Engine](https://github.com/SHIVA-TIWARI2403/viral-ai-shorts-pipeline)
 > Fully automated video synthesis pipeline generating high-converting Dark Psychology shorts. Uses Gemini AI for viral scriptwriting, Edge-TTS for multi-lingual neural voiceovers, MoviePy for dynamic subtitles and visual animations, and automated YouTube/Meta publishing.
 
 - **Stack:** Python · Google Gemini API · Edge-TTS · MoviePy · FFmpeg · YouTube Data API v3 · Meta Graph API
@@ -75,7 +86,7 @@
 
 ---
 
-### 🎓 6. [SlideCraft AI — Gamma-Style Bento Presentation Engine](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)
+### 🎓 7. [SlideCraft AI — Gamma-Style Bento Presentation Engine](https://github.com/SHIVA-TIWARI2403/ai-student-ppt-maker)
 > Autonomous AI slide deck synthesizer for students and researchers. Generates exhaustive presentations up to 25 slides with Core Concept definitions on Slide 1, native PowerPoint OpenXML transitions (*Fade, Wipe, Zoom*), and student talking scripts.
 
 - **Stack:** Python · FastAPI · python-pptx · OpenXML · Google Gemini · Tailwind CSS
@@ -83,7 +94,7 @@
 
 ---
 
-### 💜 7. [Milo — Hobby-Based Social & Community Platform](https://milosathi.netlify.app) *(Production Live)*
+### 💜 8. [Milo — Hobby-Based Social & Community Platform](https://milosathi.netlify.app) *(Production Live)*
 > Modern, privacy-focused social platform for adults (18+) to connect over hobbies and shared passions. Features Google OAuth authentication, Supabase Realtime synchronization, and PostgreSQL Row-Level Security (RLS).
 
 - **Stack:** HTML5 · Tailwind CSS · JavaScript (ES6+) · Supabase · PostgreSQL · Netlify
@@ -91,7 +102,7 @@
 
 ---
 
-### 🍃 8. [FolioForge — Minimalist Glassmorphic Portfolio & Resume Builder](https://github.com/SHIVA-TIWARI2403/folioforge)
+### 🍃 9. [FolioForge — Minimalist Glassmorphic Portfolio & Resume Builder](https://github.com/SHIVA-TIWARI2403/folioforge)
 > Glassmorphic portfolio and resume builder in Forest Green & Maroon with real-time split-screen preview, responsive cards, and 1-click PDF/HTML export.
 
 - **Stack:** HTML5 · Tailwind CSS · JavaScript · Canvas · LocalStorage
